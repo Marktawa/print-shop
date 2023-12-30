@@ -8,7 +8,7 @@ An ecommerce website for a print shop.
 
 ## Live Link
 
-[Print Shop Live Link](https://print-shop.pages.dev/): https://print-shop.pages.dev/
+**[Print Shop Live Link](https://print-shop.pages.dev/):** https://print-shop.pages.dev/
 
 ## Author
 
